@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.1/1.1.iml" filepath="$PROJECT_DIR$/1.1/1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2/1.2.iml" filepath="$PROJECT_DIR$/1.2/1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026s-coding_asignments.iml" filepath="$PROJECT_DIR$/2026s-coding_asignments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kpl1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/kpl1/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kpl1/T1/T1.iml" filepath="$PROJECT_DIR$/kpl1/T1/T1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kpl1/T2/T2.iml" filepath="$PROJECT_DIR$/kpl1/T2/T2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kpl1/T3/T3.iml" filepath="$PROJECT_DIR$/kpl1/T3/T3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kpl1/kpl1.iml" filepath="$PROJECT_DIR$/kpl1/kpl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/1.1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/T1/T1.iml" filepath="$PROJECT_DIR$/1.1/T1/T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/T2/T2.iml" filepath="$PROJECT_DIR$/1.1/T2/T2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/T3/T3.iml" filepath="$PROJECT_DIR$/1.1/T3/T3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.1/T4/T4.iml" filepath="$PROJECT_DIR$/1.1/T4/T4.iml" />
     </modules>
   </component>
 </project>
