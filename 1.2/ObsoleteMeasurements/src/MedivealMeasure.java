@@ -7,13 +7,22 @@ public class MedivealMeasure {
         System.out.println("Weight (g): ");
         double grams = Double.parseDouble(scanner.nextLine());
 
-        double luoti = grams / 13.28;
-        double naula = luoti / 32;
-        double levis = naula / 20;
+        //kokonais luotien määrä
+        double totalLuoti = grams / 13.28;
 
-        System.out.printf("%2f grams is %d leviskä, %d naula, %.2f luoti.",
-                grams, (int)levis, (int)naula, luoti);
+        //kokonais naulojen määrä
+        int totalNaula = (int)(totalLuoti / 32);
 
+        //Jako jäännös naulojen laskun jälkeen = luotien määrä
+        double luoti = totalLuoti % 32;
 
+        //Levisköjen määrä
+        int leviska = totalNaula / 20;
+
+        //Jako jäännös Levisköjen laskun jälkeen = naulojen määrä
+        int naula = totalNaula % 20;
+
+        System.out.printf("%.0f grams is %d leviskä, %d naula, %.2f luoti.",
+                grams, leviska, naula, luoti);
     }
 }
