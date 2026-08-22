@@ -5,11 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/1.1/1.1.iml" filepath="$PROJECT_DIR$/1.1/1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.2/1.2.iml" filepath="$PROJECT_DIR$/1.2/1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/2026s-coding_asignments.iml" filepath="$PROJECT_DIR$/2026s-coding_asignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2/FahrenheitToC/FahrenheitToC.iml" filepath="$PROJECT_DIR$/1.2/FahrenheitToC/FahrenheitToC.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/1.1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2/ObsoleteMeasurements/ObsoleteMeasurements.iml" filepath="$PROJECT_DIR$/1.2/ObsoleteMeasurements/ObsoleteMeasurements.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.1/T1/T1.iml" filepath="$PROJECT_DIR$/1.1/T1/T1.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.1/T2/T2.iml" filepath="$PROJECT_DIR$/1.1/T2/T2.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.1/T3/T3.iml" filepath="$PROJECT_DIR$/1.1/T3/T3.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.1/T4/T4.iml" filepath="$PROJECT_DIR$/1.1/T4/T4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2/Triangles/Triangles.iml" filepath="$PROJECT_DIR$/1.2/Triangles/Triangles.iml" />
     </modules>
   </component>
 </project>
